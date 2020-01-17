@@ -1,0 +1,363 @@
+
+== INTELLECTUAL PROPERTY
+
+=== General Obligations
+The United States recognizes the importance of intellectual property protection. China recognizes the importance of establishing and implementing a comprehensive legal system of intellectual property protection and enforcement as it transforms from a major intellectual property consumer to a major intellectual property producer. China believes that enhancing intellectual property protection and enforcement is in the interest of building an innovative country, growing innovation-driven enterprises, and promoting high quality economic growth.
+
+==== Article 1.1:
+China and the United States hereby affirm that they undertake provisions with respect to intellectual property, as set forth in Sections A through K.
+
+==== Article 1.2:
+The Parties shall ensure fair, adequate, and effective protection and enforcement of intellectual property rights. Each Party shall ensure fair and equitable market access to persons of the other Party that rely upon intellectual property protection.
+
+=== Trade Secrets and Confidential Business Information
+The United States emphasizes trade secret protection. China regards trade secret protection as a core element of optimizing the business environment. The Parties agree to ensure effective protection for trade secrets and confidential business information and effective enforcement against the misappropriation of such information. footnote:[The Parties agree that the term "`confidential business information`" concerns or relates to the trade secrets, processes, operations, style of works, or apparatus, or to the production, business transactions, or logistics, customer information, inventories, or amount or source of any income, profits, losses, or expenditures of any person, natural or legal, or other information of commercial value, the disclosure of which is likely to have the effect of causing substantial harm to the competitive position of such person from which the information was obtained.]
+
+
+==== Article 1.3: Scope of Actors Liable for Trade Secret Misappropriatio
+1. The Parties shall ensure that all natural or legal persons can be subject to liability for trade secret misappropriation.
+
+2. China shall define "`operators`" in trade secret misappropriation to include all natural persons, groups of persons, and legal persons.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+==== Article 1.4: Scope of Prohibited Acts Constituting Trade Secret Misappropriation
+1. The Parties shall ensure that the scope of prohibited acts subject to liability for trade secret misappropriation provides full coverage for methods of trade secret theft.
+
+2. China shall enumerate additional acts constituting trade secret misappropriation, especially:
+
+. electronic intrusions;
+. breach or inducement of a breach of duty not to disclose information that is secret or intended to be kept secret; and
+. unauthorized disclosure or use that occurs after the acquisition of a trade secret under circumstances giving rise to a duty to protect the trade secret from disclosure or to limit the use of the trade secret.
+
+3. China and the United States agree to strengthen cooperation on trade secret protection.
+
+4. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+==== Article 1.5: Burden-Shifting in a Civil Proceeding
+1. The Parties shall provide that the burden of production of evidence or burden of proof, as appropriate, shifts to the accused party in a civil judicial proceeding for trade secret misappropriation where the holder of a trade secret has produced prima facie evidence, including circumstantial evidence, of a reasonable indication of trade secret misappropriation by the accused party.
+
+2. China shall provide that:
+
+. the burden of proof or burden of production of evidence, as appropriate, shifts to the accused party to show that it did not misappropriate a trade secret once a holder of a trade secret produces:
+.. evidence that the accused party had access or opportunity to obtain a trade secret and the information used by the accused party is materially the same as that trade secret;
+.. evidence that a trade secret has been or risks being disclosed or used by the accused party; or
+.. other evidence that its trade secret(s) were misappropriated by the accused party; and
+
+. under the circumstance that the right holder provides preliminary evidence that measures were taken to keep the claimed trade secret confidential, the burden of proof or burden of production of evidence, as appropriate, shifts to the accused party to show that a trade secret identified by a holder is generally known among persons within the circles that normally deal with the kind of information in question or is readily accessible, and therefore is not a trade secret.
+
+. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+=== Article 1.6: Provisional Measures to Prevent the Use of Trade Secrets
+1. The Parties shall provide for prompt and effective provisional measures to prevent the use of misappropriated trade secrets.
+
+2. China shall identify the use or attempted use of claimed trade secret information as an "`urgent situation`" that provides its judicial authorities the authority to order the grant of a preliminary injunction based on the specific facts and circumstances of a case.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+==== Article 1.7: Threshold for Initiating Criminal Enforcement
+1. The Parties shall eliminate any requirement that the holder of a trade secret establish actual losses as a prerequisite to initiation of a criminal investigation for misappropriation of a trade secret.
+
+2. China shall:
+
+. as an interim step, clarify that "`great loss`" as a threshold for criminal enforcement under the trade secret provision in the relevant law can be fully shown by remedial costs, such as those incurred to mitigate damage to business operations or planning or to re-secure computer or other systems, and substantially lower all the thresholds for initiating criminal enforcement; and
+. as a subsequent step, eliminate in all applicable measures any requirement that the holder of a trade secret establish actual losses as a prerequisite to initiation of a criminal investigation for misappropriation of a trade secret.
+
+
+==== Article 1.8: Criminal Procedures and Penalties
+1. The Parties shall provide for the application of criminal procedures and penalties to address willful trade secret misappropriation.
+
+2. China's criminal procedures and penalties shall at least encompass cases of trade secret misappropriation through theft, fraud, physical or electronic intrusion for an unlawful
+purpose, and the unauthorized or improper use of a computer system in the scope of prohibited acts.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+=== Article 1.9: Protecting Trade Secrets and Confidential Business Information from Unauthorized Disclosure by Government Authorities
+1. To further strengthen the protection of trade secrets, as well as better encourage various enterprises to innovate, China shall prohibit the unauthorized disclosure of undisclosed information, trade secrets, or confidential business information by government personnel or third party experts or advisors in any criminal, civil, administrative, or regulatory proceedings conducted at either the central or sub-central levels of government in which such information is submitted.
+
+2. China shall require administrative agencies and other authorities at all levels to:
+
+. limit requests for information to no more than necessary for the legitimate exercise of investigative or regulatory authority;
+. limit access to submitted information to only government personnel necessary for the exercise of legitimate investigative or regulatory functions;
+. ensure the security and protection of submitted information;
+. ensure that no third party experts or advisors who compete with the submitter of the information or have any actual or likely financial interest in the result of the investigative or regulatory process have access to such information;
+. establish a process for persons seeking an exemption from disclosure and a mechanism for challenging disclosures to third parties; and
+. provide criminal, civil, and administrative penalties, including monetary fines, the suspension or termination of employment, and, as part of the final measures amending the relevant laws, imprisonment, for the unauthorized disclosure of a trade secret or confidential business information that shall deter such unauthorized disclosure.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+=== Pharmaceutical-Related Intellectual Property
+Pharmaceuticals are a matter concerning people's life and health, and there continues to be a need for finding new treatments and cures, such as for cancer, diabetes, hypertension, and stroke, among others. To promote innovation and cooperation in the pharmaceutical sector and to better meet the needs of patients, the Parties shall provide for effective protection and enforcement of pharmaceutical-related intellectual property rights, including patents and undisclosed test or other data submitted as a condition of marketing approval.
+
+
+==== Article 1.10: Consideration of Supplemental Data
+1. China shall permit pharmaceutical patent applicants to rely on supplemental data to satisfy relevant requirements for patentability, including sufficiency of disclosure and inventive step, during patent examination proceedings, patent review proceedings, and judicial proceedings.
+
+2. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+==== Article 1.11: Effective Mechanism for Early Resolution of Patent Disputes
+1. If China permits, as a condition of approving the marketing of a pharmaceutical product, including a biologic, persons, other than the person originally submitting the safety and efficacy information, to rely on evidence or information concerning the safety and efficacy of a product that was previously approved, such as evidence of prior marketing approval by China or in another territory, China shall provide:
+
+. a system to provide notice to a patent holder, licensee, or holder of marketing approval, that such other person is seeking to market that product during the term of an applicable patent claiming the approved product or its approved method of use;
+
+. adequate time and opportunity for such a patent holder to seek, prior to the marketing of an allegedly infringing product, available remedies in subparagraph (c); and
+
+. procedures for judicial or administrative proceedings and expeditious remedies, such as preliminary injunctions or equivalent effective provisional measures, for the timely resolution of disputes concerning the validity or infringement of an applicable patent claiming an approved pharmaceutical product or its approved method of use.
+
+2. China shall establish a nationwide system for pharmaceutical products consistent with paragraph 1, including by providing a cause of action to allow the patent holder, licensee, or
+holder of marketing approval to seek, prior to the marketing approval of an allegedly infringing product, civil judicial proceedings and expeditious remedies for the resolution of disputes concerning the validity or infringement of an applicable patent. China may also provide for administrative proceedings for the resolution of such disputes.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+=== Patents
+
+==== Article 1.12: Effective Patent Term Extension
+1. The Parties shall provide patent term extensions to compensate for unreasonable delays that occur in granting the patent or during pharmaceutical product marketing approvals.
+
+2. China shall provide that:
+
+. China, at the request of the patent owner, shall extend the term of a patent to compensate for unreasonable delays, not attributable to the applicant, that occur in granting the patent. For purposes of this provision, an unreasonable delay shall at least include a delay in the issuance of the patent of more than four years from the date of filing of the application in China, or three years after a request for examination of the application, whichever is later.
+
+. With respect to patents covering a new pharmaceutical product that is approved for marketing in China and methods of making or using a new pharmaceutical product that is approved for marketing in China, China, at the request of the patent owner, shall make available an adjustment of the patent term or the term of the patent rights of a patent covering a new product, its approved method of use, or a method of making the product to compensate the patent owner for unreasonable curtailment of the effective patent term as a result of the marketing approval process related to the first commercial use of that product in China. Any such adjustment shall confer all of the exclusive rights, subject to the same limitations and exceptions, of the patent claims of the product, its method of use, or its method of manufacture in the originally issued patent as applicable to the approved product and the approved method of use of the product. China may limit such adjustments to no more than five years and may limit the resulting effective patent term to no more than 14 years from the date of marketing approval in China.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+=== Piracy and Counterfeiting on E-Commerce Platforms
+In order to promote the development of e-commerce, China and he United States shall strengthen cooperation and jointly and individually combat infringement and counterfeiting in the e-commerce market. The Parties shall reduce piracy and counterfeiting, including by reducing barriers, if any, to making legitimate content available in a timely manner to consumers and eligible for copyright protection, and providing effective enforcement against e-commerce platforms.
+
+
+==== Article 1.13: Combating Online Infringement
+
+1. China shall provide enforcement procedures that permit effective and expeditious action by right holders against infringement that occurs in the online environment, including an effective notice and takedown system to address infringement.
+
+2. China shall:
+
+. require expeditious takedowns;
+
+. eliminate liability for erroneous takedown notices submitted in good faith;
+
+. extend to 20 working days the deadline for right holders to file a judicial or administrative complaint after receipt of a counter-notification; and
+
+. ensure validity of takedown notices and counter-notifications, by requiring relevant information for notices and counter-notifications and penalizing notices and counter-notifications submitted in bad faith.
+
+3. The United States affirms that existing U.S. enforcement procedures permit action by right holders for infringement that occurs in the online environment.
+
+4. The Parties agree to further cooperate, as appropriate, to combat infringement.
+
+
+==== Article 1.14: Infringement on Major E-Commerce Platforms
+1. The Parties shall combat the prevalence of counterfeit or pirated goods on e-commerce platforms by taking effective action with respect to major e-commerce platforms that fail to take necessary measures against the infringement of intellectual property rights.
+
+2. China shall provide that e-commerce platforms may have their operating licenses revoked for repeated failures to curb the sale of counterfeit or pirated goods.
+
+3. The United States affirms that it is studying additional means to combat the sale of counterfeit or pirated goods.
+
+
+=== Geographical Indications
+The Parties shall ensure full transparency and procedural fairness with respect to the protection of geographical indications, including safeguards for generic2 terms (also known as common names), respect for prior trademark rights, and clear procedures to allow for opposition and cancellation, as well as fair market access for exports of a Party relying on trademarks or the use of generic terms.
+
+==== Article 1.15: Geographical Indications and International Agreements
+1. China shall ensure that any measures taken in connection with pending or future requests from any other trading partner for recognition or protection of a geographical indication pursuant to an international agreement do not undermine market access for U.S. exports to China of goods and services using trademarks and generic terms.
+
+2. China shall give its trading partners, including the United States, necessary opportunities to raise disagreement about enumerated geographical indications in lists, annexes, appendices, or side letters, in any such agreement with another trading partner.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+==== Article 1.16: General Market Access-related GI Concerns
+1. China shall ensure that:
+
+. competent authorities, when determining whether a term is generic in China, take into account how consumers understand the term in China, including as indicated by the following:
+
+.. competent sources such as dictionaries, newspapers, and relevant websites;
+.. how the good referenced by the term is marketed and used in trade in China;
+.. whether the term is used, as appropriate, in relevant standards to refer to a type or class of goods in China, such as pursuant to a standard promulgated by the Codex Alimentarius; and
+.. whether the good in question is imported into China, in significant quantities, from a place other than the territory identified in the application or petition, and in a way that will not mislead the public about its place of origin, and whether those imported goods are named by the term, and
+
+. any geographical indication, whether granted or recognized pursuant to an international agreement or otherwise, may become generic over time, and may be subject to cancellation on that basis.
+
+2. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+==== Article 1.17: Multi-Component Terms
+1. Each Party shall ensure that an individual component of a multi-component term that is protected as a geographical indication in the territory of a Party shall not be protected in that Party if that individual component is generic.
+
+2. When China provides geographical indication protection to a multi-component term, it shall publicly identify which individual components, if any, are not protected.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+=== Manufacture and Export of Pirated and Counterfeit Goods
+Pirated and counterfeit goods severely undermine the interests of the general public and harm right holders in both China and the United States. The Parties shall take sustained and effective action to stop the manufacture and to block the distribution of pirated and counterfeit products, including those with a significant impact on public health or personal safety.
+
+==== Article 1.18: Counterfeit Medicines
+1. The Parties shall take effective and expeditious enforcement action against counterfeit pharmaceutical and related products containing active pharmaceutical ingredients, bulk chemicals, or biological substances.
+
+2. Measures China shall take include:
+
+. taking effective and expeditious enforcement action against the related products of counterfeit medicines and biologics, including active pharmaceutical ingredients, bulk chemicals, and biological substances;
+
+. sharing with the United States the registration information of pharmaceutical raw material sites that have been inspected by Chinese regulatory authorities and that comply with the requirements of Chinese laws and regulations, as well as any necessary information of relevant enforcement inspections; and
+
+. publishing online annually, beginning within six months after the date of entry into force of this Agreement, the data on enforcement measures, including seizures, revocations of business licenses, fines, and other actions taken by the National Medical Products Administration, Ministry of Industry and Information Technology, or any successor entity.
+
+3. The United States affirms that existing U.S. measures afford effective and expeditious action against counterfeit pharmaceutical and related products.
+
+
+==== Article 1.19: Counterfeit Goods with Health and Safety Risks
+1. The Parties shall ensure sustained and effective action to stop the manufacture and distribution of counterfeit products with a significant impact on public health or personal safety.
+
+2. Measures China shall take include significantly increasing the number of enforcement actions within three months after the date of entry into force of this Agreement, and publishing data online on the measurable impact of these actions each quarter, beginning within four months after the date of entry into force of this Agreement.
+
+3. The Parties shall endeavor, as appropriate, to strengthen cooperation to combat counterfeit goods that pose health and safety risks.
+
+
+==== Article 1.20: Destruction of Counterfeit Goods
+1. With respect to border measures, the Parties shall provide that:
+
+. goods that have been suspended from release by its customs authorities on grounds that they are counterfeit or pirated, and that have been seized and forfeited as pirated or counterfeit, shall be destroyed, except in exceptional
+circumstances;
+
+. the simple removal of a counterfeit trademark unlawfully affixed shall not be sufficient to permit the release of the goods into the channels of commerce; and
+
+. in no event shall the competent authorities have discretion, except in exceptional circumstances, to permit the exportation of counterfeit or pirated goods or to subject such goods to other customs procedures.
+
+2. With respect to civil judicial procedures, the Parties shall provide that:
+
+. at the right holder's request, goods that have been found to be pirated or counterfeit shall be destroyed, except in exceptional circumstances;
+
+. at the right holder's request, its judicial authorities shall order that materials and implements that have been predominantly used in the manufacture or creation of such pirated or counterfeit goods be, without compensation of any sort, promptly destroyed or, in exceptional circumstances and without compensation of any sort, disposed of outside the channels of commerce in such a manner as to minimize
+the risks of further infringements;
+
+. the simple removal of a counterfeit trademark unlawfully affixed shall not be sufficient to permit the release of goods into the channels of commerce; and
+
+. at the right holder's request, its judicial authorities shall order a counterfeiter to pay right holders the profits from infringement or damages adequate to compensate for the injury from the infringement.
+
+3. With respect to criminal procedures, the Parties shall provide that:
+
+. its judicial authorities, except in exceptional cases, shall order the forfeiture and destruction of all counterfeit or pirated goods and any articles consisting of a counterfeit mark to be affixed to goods;
+
+. its judicial authorities, except in exceptional cases, shall order the forfeiture and destruction of materials and implements that have been predominantly used in the creation of pirated or counterfeit goods;
+
+. forfeiture and destruction shall occur without compensation of any kind to the defendant; and
+
+. its judicial or other competent authorities shall keep an inventory of goods and other material proposed to be destroyed, and these authorities shall have the discretion to temporarily exempt these materials from the destruction order to facilitate the preservation of evidence on notice by the right holder that it wishes to bring a civil or administrative case against the defendant or any third-party infringer.
+
+4. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+==== Article 1.21: Border Enforcement Actions
+1. The Parties shall endeavor to strengthen enforcement cooperation with a view to reducing the amount of counterfeit and pirated goods, including those that are exported or in transit.
+
+2. China shall provide a sustained increase in the number of trained personnel to inspect, detain, seize, effect administrative forfeiture, and otherwise execute customs' enforcement authority against counterfeit and pirated goods, with an emphasis on counterfeit and pirated goods that are exported or in transit. Measures China shall take include significantly increasing training of relevant customs enforcement personnel within nine months after the date of entry into force of this Agreement. China also shall significantly increase the number of enforcement actions beginning within three months after the date of entry into force of this Agreement, and publishing online quarterly updates of enforcement actions.
+
+3. The Parties agree to carry out cooperation with respect to border enforcement as appropriate.
+
+
+==== Article 1.22: Enforcement at Physical Markets
+1. The Parties shall take sustained and effective action against copyright and trademark infringement at physical markets.
+
+2. Measures China shall take include significantly increasing the number of enforcement actions beginning within four months after the date of entry into force of this Agreement, and publishing online quarterly updates of enforcement actions at physical markets.
+
+3. The United States affirms that existing U.S. measures afford effective enforcement against copyright and trademark infringement at physical markets.
+
+==== Article 1.23: Unlicensed Software
+1. The Parties shall ensure that all government agencies and all entities that the government owns or controls install and use only licensed software.
+
+2. Measures China shall take include requiring annual audits by qualified third parties of China with no government ownership or affiliation and the publication online of the audit results, beginning within seven months after the date of entry into force of this Agreement.
+
+3. The United States affirms that existing U.S. measures require government agencies and contractors to install and use only licensed software.
+
+
+=== Bad-Faith Trademarks
+
+==== Article 1.24:
+With a view to strengthening trademark protection, the Parties shall ensure adequate and effective protection and enforcement of trademark rights, particularly against bad faith trademark registrations.
+
+==== Article 1.25:
+The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Section.
+
+
+=== Judicial Enforcement and Procedure in Intellectual Property Cases
+
+==== Article 1.26: Transfer from Administrative Enforcement to Criminal Enforcement
+1. China shall require the administrative authorities to transfer a case for criminal enforcement, if, under an objective standard, there is "`reasonable suspicion`" based on articulable facts that a criminal violation of an intellectual property right has occurred.
+
+2. The United States affirms that U.S. authorities have the authority to refer appropriate cases for criminal enforcement.
+
+==== Article 1.27: Deterrent-Level Penalties
+1. The Parties shall provide civil remedies and criminal penalties sufficient to deter future intellectual property theft or infringements.
+
+2. China shall:
+
+. as an interim step, deter future intellectual property theft or infringements and strengthen the application of existing remedies and penalties by imposing a heavier punishment at or near the statutory maximum permitted under its laws related to intellectual property to deter intellectual property theft or infringements; and
+
+. as a subsequent step, increase the range of minimum and maximum preestablished damages, sentences of imprisonment, and monetary fines to deter future intellectual property theft or infringements.
+
+3. The United States shall endeavor, as appropriate, to strengthen communication and cooperation with China under the bilateral Intellectual Property Criminal Enforcement Working
+Group and to consider opportunities for more experience-sharing and pragmatic cooperation regarding criminal enforcement of intellectual property rights.
+
+==== Article 1.28: Enforcement of Judgments
+1. The Parties shall ensure expeditious enforcement of any fine, penalty, payment of monetary damages, injunction, or other remedy for a violation of an intellectual property right
+ordered in a final judgment by its own court.
+
+2. Measures China shall take include executing work guidelines and implementation plans to ensure expeditious enforcement of judgments, publishing its work guidelines and implementation plans within one month after the date of entry into force of this Agreement, as well as publishing online quarterly reports of implementation results.
+
+3. The United States affirms that existing U.S. measures afford expeditious enforcement of judgments, including those pertaining to violations of intellectual property rights.
+
+==== Article 1.29: Enforcement of Copyright and Related Rights
+1. In civil, administrative, and criminal proceedings involving copyright or related rights, the Parties shall:
+
+. provide for a legal presumption that, in the absence of proof to the contrary, the person whose name is indicated as the author, producer, performer, or publisher of the work, performance, or phonogram in the usual manner is the designated right holder in such work, performance, or phonogram and that the copyright or related right subsists in such subject matter;
+
+. when the presumption in subparagraph (a) holds, waive requirements to present copyright or related rights transfer agreements or other documentation in order to establish ownership, licensing, or infringement of copyright or related rights, in the absence of rebuttal evidence presented by the accused infringer; and
+
+. provide that the accused infringer has the burden of production of evidence or burden of proof, as appropriate, to demonstrate that its use of a work protected by copyright or related rights is authorized, including in a case where the accused infringer claims to have obtained permission to use the work, such as through a license, from the right holder.
+
+2. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+==== Article 1.30: Document Authentication ("`Consularization`")
+1. In civil judicial procedures, the Parties shall not require formalities to authenticate evidence, including requiring a consular official's seal or chop, that can be introduced or
+authenticated through stipulation, or witness testimony under penalty of perjury.
+
+2. For evidence that cannot be introduced or authenticated through stipulation, or witness testimony under penalty of perjury, China shall streamline notarization and authentication
+procedures.
+
+3. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+==== Article 1.31: Witness Testimony
+1. In civil judicial proceedings, China shall afford a party a reasonable opportunity to present witnesses or experts in its case and cross-examine any witness testifying in the proceeding.
+
+2. The United States affirms that existing U.S. measures afford treatment equivalent to that provided for in this Article.
+
+
+=== Bilateral Cooperation on Intellectual Property Protection
+
+==== Article 1.32:
+Cooperation activities and initiatives undertaken in connection with the intellectual property chapter of this Agreement shall be subject to the availability of resources, and on request, and on terms and conditions mutually agreed upon between the Parties.
+
+==== Article 1.33:
+The Parties agree to strengthen bilateral cooperation on the protection of intellectual property rights and promote pragmatic cooperation in this area. China National Intellectual Property Administration and the United States Patent and Trademark Office will discuss biennial cooperation work plans in the area of intellectual property, including joint programs, industry outreach, information and expert exchanges, regular interaction through meetings and other communications, and public awareness.
+
+
+=== Implementation
+
+==== Article 1.34:
+Each Party shall determine the appropriate method of implementing the provisions of this Agreement within its own system and practice. If necessary, each Party shall provide
+suggestions for the amendment of laws to its legislative body according to its domestic legislation procedure. Consistent with the Bilateral Evaluation and Dispute Resolution Chapter,
+each Party shall ensure that its obligations under this Agreement are fully implemented.
+
+==== Article 1.35:
+Within 30 working days after the date of entry into force of this Agreement, China will promulgate an Action Plan to strengthen intellectual property protection aimed at promoting its high-quality growth. This Action Plan shall include, but not be limited to, measures that China will take to implement its obligations under this Chapter and the date by which each measure will go into effect.
+
+==== Article 1.36:
+The United States affirms that its existing measures are consistent with its obligations in this Chapter.

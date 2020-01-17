@@ -1,0 +1,19 @@
+= ECONOMIC AND TRADE AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE PEOPLE'S REPUBLIC OF CHINA
+:title: ECONOMIC AND TRADE AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE PEOPLE'S REPUBLIC OF CHINA
+:language: en
+:doctype: Economic and Trade Agreement
+:mn-document-class: mpfd
+:mn-output-extensions: xml,pdf,html,rxl
+:published-date: 2020-01-15
+
+
+include::sections/00-preample.adoc[]
+include::sections/01-intellectual-property.adoc[]
+include::sections/02-technology-transfer.adoc[]
+include::sections/03-trade-products.adoc[]
+include::sections/04-financial-services.adoc[]
+include::sections/05-policies-exchange-.adoc[]
+include::sections/06-expanding-trade.adoc[]
+include::sections/07-evaluation-resolution.adoc[]
+include::sections/08-final-provisions.adoc[]
+
